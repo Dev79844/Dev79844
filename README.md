@@ -12,7 +12,7 @@
 - I’m currently learning Javascript and C++.
 - I am interested in Web Development, ML, Blockchain, Competitive programming and Quantum Computing.
 - Outside of programming I like mathematics, physics, history and psychology.
-- I like to trek, meet new people and play lawn tennis and batminton.
+- I like to trek, meet new people and play lawn tennis and badminton.
 
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
