@@ -9,7 +9,7 @@
 ### Here are some ideas to get you started:
 
 - I’m currently a first year CS student 
-- I’m currently learning Javascript and C++.
+- I’m currently learning ReactJS.
 - I am interested in Web Development, ML, Blockchain, Competitive programming and Quantum Computing.
 - Outside of programming I like mathematics, physics, history and psychology.
 - I like to trek, meet new people and play lawn tennis and badminton.
