@@ -9,7 +9,7 @@
 ### Here are some ideas to get you started:
 
 - I’m currently a first year CS student 
-- I’m currently learning ReactJS.
+- Exploring tech
 - I am interested in Web Development, ML, Blockchain, Competitive programming and Quantum Computing.
 - Outside of programming I like mathematics, physics, history and psychology.
 - I like to trek, meet new people and play lawn tennis and badminton.
@@ -20,6 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=for-the-badge&logo=react)
 
 
 ### Connect with me
