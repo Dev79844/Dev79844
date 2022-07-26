@@ -8,7 +8,7 @@
 
 ### Here are some ideas to get you started:
 
-- I’m currently a first year CS student 
+- I’m a sophomore CS student 
 - Exploring tech
 - I am interested in Web Development, ML, Blockchain, Competitive programming and Quantum Computing.
 - Outside of programming I like mathematics, physics, history and psychology.
