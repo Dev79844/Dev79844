@@ -31,7 +31,7 @@
 
 ### Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/dev-parikh-4553b8217/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dev-parikh-4553b8217/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" style="color: green;" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/devparikh142003" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/devparikh142003" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
